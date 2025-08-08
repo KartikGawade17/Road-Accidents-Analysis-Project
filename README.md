@@ -39,14 +39,14 @@ The aim is to uncover patterns, trends, and key insights that could help policym
 
 ## 📷 Dashboard Preview  
 
-### Fatal Accidents Trend
-![Fatal Accidents Trend](images/fatal_trend.png)
+### Total Accidents Trend
+![Total Accidents Trend](Page 1.png)
 
-### Day vs Night Accidents
-![Day vs Night Accidents](images/day_night.png)
+### Hit & Run Accidents
+![Urban & Rural](Page 2.png)
 
 ### State-wise Fatalities
-![State Fatalities](images/state_fatalities.png)
+![Urban & Rural](Page 3.png)
 
 *(More dashboard screenshots available in the `/images` folder.)*
 
