@@ -41,7 +41,7 @@ The aim is to uncover patterns, trends, and key insights that could help policym
 ## 📷 Dashboard Preview  
 
 ### Total Accidents Trend
-![Total Accidents Trend](Page 1.png)
+![Total Accidents Trend](Page1.png)
 
 ### Hit & Run Accidents
 ![Urban & Rural](Page 2.png)
